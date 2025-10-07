@@ -155,8 +155,3 @@
 
 <br><br>
 
-## 🐍 A Snake Eating My Contributions Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FelipeGPulgar/FelipeGPulgar/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>

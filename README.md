@@ -1,7 +1,7 @@
-# <h1 align="center">Hi , I'm Felipe Pulgar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# <h1 align="center">Hi, I'm Felipe García Pulgar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Web+y+de+Software;Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica;Especialista+en+HTML%2C+CSS%2C+Python+y+m%C3%A1s;Buscando+pr%C3%A1cticas+profesionales"></a>
 </p>
 
 <br>
@@ -13,24 +13,24 @@
   </a>
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre Mí
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 <br><br>
 
-- :school: I am a `Computer Science Student` in Chile.
-- :trophy: Passionate about `Competitive Programming`.
-- :technologist: I love building solutions with `Software Development`.
-- :computer: Active in `JavaScript`, `Python`, and exploring new tech.
-- :student: Currently learning `advanced web development` and `DevOps`.
-- :nerd_face: Always `exploring new technologies`.
-- :thinking: Open for `job opportunities` or `freelance projects`.
-- :boom: Check out [my projects](#-my-repositories)!
+- :school: Estudiante de Ingeniería en Informática en el Instituto Profesional AIEP, con graduación prevista para 2026.
+- :trophy: Desarrollador web enfocado en mejorar la eficiencia y colaboración en entornos dinámicos mediante metodologías ágiles como Scrum.
+- :technologist: Experiencia en desarrollo de sistemas para restaurantes, sitios web y aplicaciones, utilizando HTML, CSS, Java, Python y más.
+- :computer: Proyectos destacados incluyen sistemas de reservas y propinas automatizadas, blogs y tiendas en línea.
+- :student: Certificado en Scrum y curso completo de desarrollo web en Udemy; siempre dispuesto a aprender nuevas tecnologías.
+- :nerd_face: Conocimientos en Git (gobernanza), diseño de mocks, UML y principios SOLID.
+- :thinking: Abierto a oportunidades de prácticas profesionales, freelance o colaboración en proyectos IT en Chile (+56 9 8349 764).
+- :boom: Revisa [mis proyectos](#-mis-repositorios) y [mi CV completo](cv-felipe-garcia-pulgar.pdf) para más detalles!
 
 <br>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"></picture> My Competitive Programming Profiles
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"></picture> Perfiles de Programación Competitiva
 
 <p align="center">
   <a href="https://codeforces.com/profile/FelipeGPulgar"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces"/></a>
@@ -40,7 +40,7 @@
 
 *Nota: Ajusta los enlaces con tus usernames reales si son diferentes.*
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Conéctate Conmigo
 
 <p align="center">
   <a href="mailto:felipegpulgar@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -49,9 +49,9 @@
   <a href="https://www.linkedin.com/in/FelipeGPulgar"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-## 🛠️ My Skills
+## 🛠️ Mis Habilidades
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -95,7 +95,7 @@
   <a href="https://github.com/piyushsuthar/github-readme-quotes"><img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"></a>
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> GitHub Stats
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Estadísticas de GitHub
 
 <details><summary><h3>🔥 Streak Stats</h3></summary>
 
@@ -103,33 +103,33 @@
 
 </details>
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 Estadísticas de Perfil de GitHub</h3></summary>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="FelipeGPulgar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelipeGPulgar&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    <img alt="FelipeGPulgar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelipeGPulgar&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeGPulgar&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="FelipeGPulgar" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeGPulgar&langs_count=10&show_icons=true&locale=es&theme=tokyonight" alt="FelipeGPulgar" height="230px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Nota:</b> Los lenguajes top son solo una métrica de los lenguajes en mi código público y no reflejan experiencia o nivel de habilidad.
 </p>
 
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<details><summary><h3>⚡ Actividad Reciente en GitHub</h3></summary>
 
 [![FelipeGPulgar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FelipeGPulgar&theme=github)](https://github.com/FelipeGPulgar/github-readme-activity-graph)
 
 </details>
 
-<details><summary><h3>:trophy: Git Profile Trophies</h3></summary>
+<details><summary><h3>:trophy: Trofeos de Perfil de Git</h3></summary>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FelipeGPulgar&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="FelipeGPulgar" /></a></p>
 [![@FelipeGPulgar's Holopin board](https://holopin.io/api/user/board?user=FelipeGPulgar)](https://holopin.io/@FelipeGPulgar)
 
 </details>
 
-<details><summary><h3>:open_file_folder: My Repositories</h3></summary>
+<details><summary><h3>:open_file_folder: Mis Repositorios</h3></summary>
 
 <div>
   <p align="center">
@@ -155,3 +155,8 @@
 
 <br><br>
 
+## 🐍 Una Serpiente Comiendo Mi Gráfico de Contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FelipeGPulgar/FelipeGPulgar/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+</p>

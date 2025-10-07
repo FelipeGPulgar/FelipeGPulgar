@@ -137,8 +137,3 @@
 
 <br><br>
 
-## 🐍 Una Serpiente Comiendo Mi Gráfico de Contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FelipeGPulgar/FelipeGPulgar/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>

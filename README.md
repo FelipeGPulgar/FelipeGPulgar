@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm Felipe García Pulgar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# <h1 align="center">Hola,Soy Felipe García Pulgar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Web+y+de+Software;Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica;Especialista+en+HTML%2C+CSS%2C+Python+y+m%C3%A1s;Buscando+pr%C3%A1cticas+profesionales"></a>
@@ -25,29 +25,21 @@
 - :computer: Proyectos destacados incluyen sistemas de reservas y propinas automatizadas, blogs y tiendas en línea.
 - :student: Certificado en Scrum y curso completo de desarrollo web en Udemy; siempre dispuesto a aprender nuevas tecnologías.
 - :nerd_face: Conocimientos en Git (gobernanza), diseño de mocks, UML y principios SOLID.
-- :thinking: Abierto a oportunidades de prácticas profesionales, freelance o colaboración en proyectos IT en Chile (+56 9 8349 764).
-- :boom: Revisa [mis proyectos](#-mis-repositorios) y [mi CV completo](cv-felipe-garcia-pulgar.pdf) para más detalles!
 
 <br>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"></picture> Perfiles de Programación Competitiva
 
-<p align="center">
-  <a href="https://codeforces.com/profile/FelipeGPulgar"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/FelipeGPulgar"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/FelipeGPulgar"><img src="https://img.icons8.com/color/50/000000/hackerrank.png" alt="HackerRank" width="50px"/></a>
-</p>
-
-*Nota: Ajusta los enlaces con tus usernames reales si son diferentes.*
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Conéctate Conmigo
 
-<p align="center">
-  <a href="mailto:felipegpulgar@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/FelipeGPulgar"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://wa.me/983479764"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-  <a href="https://www.linkedin.com/in/FelipeGPulgar"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<p align="left">
+  <a href="https://www.youtube.com/@felipegpulgar" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@felipegpulgar"  /></a>
+<a href="https://www.tiktok.com/@felipegpulgar" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@felipegpulgar" /></a>
+<a href="https://linkedin.com/in/felipegpulgar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="felipegpulgar"/></a>
+<a href="https://fb.com/felipegpulgar" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="felipegpulgar"  /></a>
+<a href = "mailto:felipegpulgar@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@felipegpulgar"  /></a>
+  </p>
+  📫 Contacto: **felipegpulgar@gmail.com**
 
 ## 🛠️ Mis Habilidades
 

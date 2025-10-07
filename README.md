@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,gitlarun"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,gitlab"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -44,10 +43,18 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,macos"/></td>
+        <td>
+            <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
+                <img height="40" src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
+            </a>
+            <a href="https://ubuntu.com/" target="_blank">
+                <img height="40" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white">
+            </a>
+            <a href="https://www.apple.com/macos/" target="_blank">
+                <img height="40" src="https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
+            </a>
+        </td>
     </tr>
 </table>
 
-
-
-<br> 
+<br>

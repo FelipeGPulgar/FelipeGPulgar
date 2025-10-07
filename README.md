@@ -1,19 +1,55 @@
-## Hi there 👋
+# <h1 align="center">Hi , I'm Felipe Pulgar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**FelipeGPulgar/FelipeGPulgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=FelipeGPulgar&label=Profile%20views&color=0047AB&style=plastic?" alt="FelipeGPulgar" height="25px" width="160px"/> 
+  <a href="https://commits.top/chile.html" target="_blank">
+    <img src="https://aktive.tk/chile/FelipeGPulgar?color=red" alt="Most Active Users" target="_blank" height="25px" width="250px"/> 
+  </a>
+</p>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+
+<br><br>
+
+- :school: I am a `Computer Science Student` in Chile.
+- :trophy: Passionate about `Competitive Programming`.
+- :technologist: I love building solutions with `Software Development`.
+- :computer: Active in `JavaScript`, `Python`, and exploring new tech.
+- :student: Currently learning `advanced web development` and `DevOps`.
+- :nerd_face: Always `exploring new technologies`.
+- :thinking: Open for `job opportunities` or `freelance projects`.
+- :boom: Check out [my projects](#-my-repositories)!
+
+<br>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"></picture> My Competitive Programming Profiles
+
+<p align="center">
+  <a href="https://codeforces.com/profile/FelipeGPulgar"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/FelipeGPulgar"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/FelipeGPulgar"><img src="https://img.icons8.com/color/50/000000/hackerrank.png" alt="HackerRank" width="50px"/></a>
+</p>
+
+*Nota: Ajusta los enlaces con tus usernames reales si son diferentes.*
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with Me
+
+<p align="center">
+  <a href="mailto:felipegpulgar@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/FelipeGPulgar"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://wa.me/983479764"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+  <a href="https://www.linkedin.com/in/FelipeGPulgar"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+## 🛠️ My Skills
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
@@ -38,39 +74,26 @@ Here are some ideas to get you started:
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,bitbucket"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,webstorm,sublime,cursor,kiro,jetbrains"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td>
-            <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
-                <img height="40" src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
-            </a>
-            <a href="https://ubuntu.com/" target="_blank">
-                <img height="40" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white">
-            </a>
-            <a href="https://www.apple.com/macos/" target="_blank">
-                <img height="40" src="https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
-            </a>
+            <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img height="40" src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white"></a>
+            <a href="https://ubuntu.com/" target="_blank"><img height="40" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+            <a href="https://www.apple.com/macos/" target="_blank"><img height="40" src="https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"></a>
         </td>
     </tr>
 </table>
 
-
 <br>
 
-
-
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with Me
+---
 
 <p align="center">
-  <a href="mailto:felipegpulgar@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/FelipeGPulgar"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://wa.me/983479764"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-  <a href="https://www.linkedin.com/in/FelipeGPulgar"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"></a>
 </p>
-
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> GitHub Stats
 
@@ -110,13 +133,21 @@ Here are some ideas to get you started:
 
 <div>
   <p align="center">
-    <a href="https://github.com/FelipeGPulgar/tu-repo1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeGPulgar&repo=tu-repo1&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/FelipeGPulgar/Sistema-Restaurante">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeGPulgar&repo=Sistema-Restaurante&theme=tokyonight" alt="Sistema-Restaurante" />
     </a>
-    <a href="https://github.com/FelipeGPulgar/tu-repo2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeGPulgar&repo=tu-repo2&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/FelipeGPulgar/BikeOrange">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeGPulgar&repo=BikeOrange&theme=tokyonight" alt="BikeOrange" />
     </a>
-    <!-- Agrega más repositorios según necesites -->
+    <a href="https://github.com/FelipeGPulgar/bot-musicalip">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeGPulgar&repo=bot-musicalip&theme=tokyonight" alt="bot-musicalip" />
+    </a>
+    <a href="https://github.com/FelipeGPulgar/shizotactical">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeGPulgar&repo=shizotactical&theme=tokyonight" alt="shizotactical" />
+    </a>
+    <a href="https://github.com/FelipeGPulgar/FelipeGPulgar">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeGPulgar&repo=FelipeGPulgar&theme=tokyonight" alt="FelipeGPulgar" />
+    </a>
   </p>
 </div>
 

@@ -192,6 +192,9 @@ Here are some ideas to get you started:
     <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="https://www.apple.com/macos/" target="_blank">
+            <img height="40" src="https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
+        </a>
   &emsp;
     <a href="https://pop.system76.com/" target="_blank"><img src="https://img.shields.io/badge/Pop!_OS-%2348B9C7.svg?style=plastic&logo=pop-os&logoColor=white"></a>
   &emsp;

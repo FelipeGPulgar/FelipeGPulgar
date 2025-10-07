@@ -103,11 +103,6 @@
 
 </details>
 
-<details><summary><h3>⚡ Actividad Reciente en GitHub</h3></summary>
-
-[![FelipeGPulgar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FelipeGPulgar&theme=github)](https://github.com/FelipeGPulgar/github-readme-activity-graph)
-
-</details>
 
 <details><summary><h3>:trophy: Trofeos de Perfil de Git</h3></summary>
 

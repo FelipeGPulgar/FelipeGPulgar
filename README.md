@@ -8,7 +8,6 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=FelipeGPulgar&label=Profile%20views&color=0047AB&style=plastic?" alt="FelipeGPulgar" height="25px" width="160px"/> 
-    <img src="https://aktive.tk/chile/FelipeGPulgar?color=red" alt="Most Active Users" target="_blank" height="25px" width="250px"/> 
   </a>
 </p>
 

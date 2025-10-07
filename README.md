@@ -8,7 +8,6 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=FelipeGPulgar&label=Profile%20views&color=0047AB&style=plastic?" alt="FelipeGPulgar" height="25px" width="160px"/> 
-  <a href="https://commits.top/chile.html" target="_blank">
     <img src="https://aktive.tk/chile/FelipeGPulgar?color=red" alt="Most Active Users" target="_blank" height="25px" width="250px"/> 
   </a>
 </p>
@@ -24,7 +23,7 @@
 - :technologist: Experiencia en desarrollo de sistemas para restaurantes, sitios web y aplicaciones, utilizando HTML, CSS, Java, Python y más.
 - :computer: Proyectos destacados incluyen sistemas de reservas y propinas automatizadas, blogs y tiendas en línea.
 - :student: Certificado en Scrum y curso completo de desarrollo web en Udemy; siempre dispuesto a aprender nuevas tecnologías.
-- :nerd_face: Conocimientos en Git (gobernanza), diseño de mocks, UML y principios SOLID.
+- :nerd_face: Conocimientos en Git (gobernanza TI), diseño de mocks, UML y principios SOLID.
 
 <br>
 
@@ -83,9 +82,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"></a>
-</p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Estadísticas de GitHub
 
